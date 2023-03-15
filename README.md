@@ -7,7 +7,7 @@
 
 ### About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+I am a Full Stack Software Engineer from Argentina.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I create and contribute to cool open source projects.
