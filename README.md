@@ -1,7 +1,7 @@
 # Agustin Alexander
 
 <div>
-<a href="https://www.linkedin.com/in/agustin.alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/agustin-alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
 ### About Me :
@@ -10,7 +10,7 @@ I am a Full Stack Software Engineer from Argentina.
 
 - 🔭 I’m a Software Engineer at Mulesoft working on frontend and backend.
 - ⚡ In my free time I create and contribute to cool open source projects.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-agustin.alexander-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustin.alexander)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-agustin.alexander-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-alexander)
 
 ---
 
