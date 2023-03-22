@@ -1,23 +1,32 @@
-# Agustin Alexander
-
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/agustin-alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</div>
-
-### About Me :
-
+<h1 align="center">Agustin Alexander</h1>
+<div>  
+<p align="center">
 I am a Full Stack Software Engineer from Argentina.
+</p>
+<p align="center">
+🔭 I work at Mulesoft doing backend and frontend.
+</p>
+<p align="center">
+⚡ In my free time I create and contribute to cool open source projects.
+</p>
+<p align="center">
+ 📫 How to reach me: &nbsp;<a target="_blank" href="https://www.linkedin.com/in/agustin-alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+</div>
+<p align="center">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-light&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
+</a>
+<a align="center" href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agusalex" width="415"/>
+</a>
+</p>
 
-- 🔭 I work at Mulesoft doing backend and frontend.
-- ⚡ In my free time I create and contribute to cool open source projects.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-agustin.alexander-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-alexander)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-light&exclude_repo=inmobi,notarius,2048&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
+<h3 align="center">🛠 &nbsp;Languages and Tools :</h3>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,30 +43,57 @@ I am a Full Stack Software Engineer from Argentina.
 </p>
 
 ---
-
-### 🔥 &nbsp; Some Projects that I'm proud of
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=notarius)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=easy-trilateration)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=grive2docker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=inmobi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=nFSM-Simulator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=2048)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=IBFlexQueryAPIProxy)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=modemReboot)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">🔥 &nbsp; Some Projects that I'm proud of :</h3>
+<p style="display: flex; justify-content: center; align-items: center; text-align: center; min-height: 100vh;" align="center">
+  <a href="https://github.com/agusalex/firebase-ecommerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce" />
+  </a>
+  <a href="https://github.com/agusalex/ghostfolio-sync">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync" />
+  </a>
+  <a href="https://github.com/agusalex/notarius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=notarius" />
+  </a>
+  <a href="https://github.com/agusalex/easy-trilateration">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=easy-trilateration" />
+  </a>
+  <a href="https://github.com/agusalex/grive2docker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=grive2docker" />
+  </a>
+  <a href="https://github.com/agusalex/inmobi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=inmobi" />
+  </a>
+  <a href="https://github.com/agusalex/nFSM-Simulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=nFSM-Simulator" />
+  </a>
+  <a href="https://github.com/agusalex/2048">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=2048" />
+  </a>
+  <a href="https://github.com/agusalex/IBFlexQueryAPIProxy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=IBFlexQueryAPIProxy" />
+  </a>
+  <a href="https://github.com/agusalex/modemReboot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=modemReboot" />
+  </a>
+</p>
 
 ---
+<h3 align="center">✍️ Blog Posts : </h3>
 
-### 🔥 &nbsp; My Stats :
+<p align="center">
+<a href="https://atinkerholic.wordpress.com/2019/02/01/hosting-a-django-2-0-project-on-heroku/">Hosting a Django 2.0 project on Heroku</a>
+</p>
+<p align="center">
+<a href="https://medium.com/@agusalexander8/transparent-video-alpha-channel-on-a-frame-and-ar-js-96a8705465ff">Transparent Video (Alpha Channel) on a-frame and ar.js</a>
+</p>
+<p align="center">
+<a href="https://atinkerholic.wordpress.com/2019/02/01/setup-django-with-venv/">Setup Django with Venv</a>
+</p>
+<p align="center">
+<a href="https://atinkerholic.wordpress.com/2018/10/12/how-to-use-multi-markers-on-ar-js-with-a-frame/">How to use multi-markers on AR.js with A-Frame</a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agusalex)](https://git.io/streak-stats)
----
 
-### ✍️ Blog Posts : 
-- [Hosting a Django 2.0 project on Heroku](https://atinkerholic.wordpress.com/2019/02/01/hosting-a-django-2-0-project-on-heroku/)
-- [Transparent Video (Alpha Channel) on a-frame and ar.js](https://medium.com/@agusalexander8/transparent-video-alpha-channel-on-a-frame-and-ar-js-96a8705465ff)
-- [Setup Django with Venv](https://atinkerholic.wordpress.com/2019/02/01/setup-django-with-venv/)
-- [How to use multi-markers on AR.js with A-Frame](https://atinkerholic.wordpress.com/2018/10/12/how-to-use-multi-markers-on-ar-js-with-a-frame/)
+</div>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
