@@ -43,7 +43,7 @@ I am a Full Stack Software Engineer from Argentina.
 </p>
 
 ---
-<h3 align="center">🔥 &nbsp; Some Projects that I'm proud of :</h3>
+<h3 align="center">🔥 &nbsp; Some Projects that I built:</h3>
 <p style="display: flex; justify-content: center; align-items: center; text-align: center; min-height: 100vh;" align="center">
   <a href="https://github.com/agusalex/firebase-ecommerce">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce" />
