@@ -81,15 +81,19 @@ I am a Full Stack Software Engineer from Argentina.
 <h3 align="center">✍️ Blog Posts : </h3>
 
 <p align="center">
+&#x2022;
 <a href="https://atinkerholic.wordpress.com/2019/02/01/hosting-a-django-2-0-project-on-heroku/">Hosting a Django 2.0 project on Heroku</a>
 </p>
 <p align="center">
+&#x2022;
 <a href="https://medium.com/@agusalexander8/transparent-video-alpha-channel-on-a-frame-and-ar-js-96a8705465ff">Transparent Video (Alpha Channel) on a-frame and ar.js</a>
 </p>
 <p align="center">
+&#x2022;
 <a href="https://atinkerholic.wordpress.com/2019/02/01/setup-django-with-venv/">Setup Django with Venv</a>
 </p>
 <p align="center">
+&#x2022;
 <a href="https://atinkerholic.wordpress.com/2018/10/12/how-to-use-multi-markers-on-ar-js-with-a-frame/">How to use multi-markers on AR.js with A-Frame</a>
 </p>
 
