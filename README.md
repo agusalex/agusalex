@@ -12,6 +12,7 @@ I am a Full Stack Software Engineer from Argentina.
 - ⚡ In my free time I create and contribute to cool open source projects.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-agustin.alexander-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-alexander)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-light&exclude_repo=inmobi,notarius,2048&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -34,7 +35,7 @@ I am a Full Stack Software Engineer from Argentina.
 
 ---
 
-### Some Projects that I'm proud of
+### 🔥 &nbsp; Some Projects that I'm proud of
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=notarius)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,10 +51,7 @@ I am a Full Stack Software Engineer from Argentina.
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agusalex&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agusalex)](https://git.io/streak-stats)
 ---
 
 ### ✍️ Blog Posts : 
