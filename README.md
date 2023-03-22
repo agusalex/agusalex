@@ -8,9 +8,15 @@
 
 I am a Full Stack Software Engineer from Argentina.
 
-- 🔭 I work at Mulesoft working on frontend and backend.
+- 🔭 I work at Mulesoft doing backend and frontend.
 - ⚡ In my free time I create and contribute to cool open source projects.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-agustin.alexander-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-alexander)
+
+---
+### Some Projects that I'm proud of
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
