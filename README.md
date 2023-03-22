@@ -14,10 +14,16 @@ I am a Full Stack Software Engineer from Argentina.
 
 ---
 ### Some Projects that I'm proud of
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=notarius)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=easy-trilateration)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=grive2docker)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=inmobi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=nFSM-Simulator)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=2048)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=IBFlexQueryAPIProxy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=modemReboot)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
