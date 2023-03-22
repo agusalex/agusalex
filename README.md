@@ -1,6 +1,8 @@
 <h1 align="center">Agustin Alexander</h1>
 <div>  
 <p align="center">
+<img align="center" src="https://visitcount.itsvg.in/api?id=agusalex&icon=0&color=0"/> </p>
+<p align="center">
 I am a Full Stack Software Engineer from Argentina.
 </p>
 <p align="center">
@@ -99,8 +101,8 @@ I am a Full Stack Software Engineer from Argentina.
 &#x2022;
 <a href="https://atinkerholic.wordpress.com/2018/10/12/how-to-use-multi-markers-on-ar-js-with-a-frame/">How to use multi-markers on AR.js with A-Frame</a>
 </p>
-
-
 </div>
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
