@@ -15,7 +15,7 @@ I am a Full Stack Software Engineer from Argentina.
 </div>
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-light&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
+  <img align="center" src="https://agusalex-stats.vercel.app/api/top-langs/?username=agusalex&layout=compact&theme=vision-friendly-light&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
 </a>
 <a align="center" href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agusalex" width="415"/>
@@ -46,34 +46,34 @@ I am a Full Stack Software Engineer from Argentina.
 <h3 align="center">🔥 &nbsp; Some Projects that I built:</h3>
 <p style="display: flex; justify-content: center; align-items: center; text-align: center; min-height: 100vh;" align="center">
   <a href="https://github.com/agusalex/firebase-ecommerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce" />
   </a>
   <a href="https://github.com/agusalex/ghostfolio-sync">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync" />
   </a>
   <a href="https://github.com/agusalex/notarius">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=notarius" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=notarius" />
   </a>
   <a href="https://github.com/agusalex/easy-trilateration">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=easy-trilateration" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=easy-trilateration" />
   </a>
   <a href="https://github.com/agusalex/grive2docker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=grive2docker" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=grive2docker" />
   </a>
   <a href="https://github.com/agusalex/inmobi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=inmobi" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=inmobi" />
   </a>
   <a href="https://github.com/agusalex/nFSM-Simulator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=nFSM-Simulator" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=nFSM-Simulator" />
   </a>
   <a href="https://github.com/agusalex/2048">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=2048" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=2048" />
   </a>
   <a href="https://github.com/agusalex/IBFlexQueryAPIProxy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=IBFlexQueryAPIProxy" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=IBFlexQueryAPIProxy" />
   </a>
   <a href="https://github.com/agusalex/modemReboot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusalex&repo=modemReboot" />
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=modemReboot" />
   </a>
 </p>
 
