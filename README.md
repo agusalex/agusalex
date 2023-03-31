@@ -1,5 +1,5 @@
 <h1 align="center">Agustin Alexander</h1>
-<section id="main" >  
+<div class="card" >  
 <p class="text-p" align="center">
 <img align="center" src="https://visitcount.itsvg.in/api?id=agusalex&icon=0&color=0"/> </p>
 <p class="text-p" align="center">
@@ -14,7 +14,7 @@ I am a Full Stack Software Engineer from Argentina.
 <p class="text-p" align="center">
  📫 How to reach me: &nbsp;<a target="_blank" href="https://www.linkedin.com/in/agustin-alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-</section>
+</div>
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img class="tile" align="center" width="315" src="https://agusalex-stats.vercel.app/api/top-langs/?username=agusalex&&include_all_commits=true&count_private=true&layout=compact&theme=vision-friendly-light&count_private=true&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
