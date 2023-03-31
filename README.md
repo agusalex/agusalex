@@ -1,17 +1,17 @@
 <h1 align="center">Agustin Alexander</h1>
 <div>  
-<p align="center">
+<p class="text-p" align="center">
 <img align="center" src="https://visitcount.itsvg.in/api?id=agusalex&icon=0&color=0"/> </p>
-<p align="center">
+<p class="text-p" align="center">
 I am a Full Stack Software Engineer from Argentina.
 </p>
-<p align="center">
+<p class="text-p" align="center">
 🔭 I work at Mulesoft doing backend and frontend.
 </p>
-<p align="center">
+<p class="text-p" align="center">
 ⚡ In my free time I create and contribute to cool open source projects.
 </p>
-<p align="center">
+<p class="text-p" align="center">
  📫 How to reach me: &nbsp;<a target="_blank" href="https://www.linkedin.com/in/agustin-alexander"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 </div>
@@ -85,19 +85,19 @@ I am a Full Stack Software Engineer from Argentina.
 <h3 align="center">✍️ Blog Posts : </h3>
 
 <div class="blogs" >
-<p align="center">
+<p class="text-p" align="center">
 &#x2022;
-<a href="https://atinkerholic.wordpress.com/2019/02/01/hosting-a-django-2-0-project-on-heroku/">Hosting a Django 2.0 project on Heroku</a>
+<a class="text-p" href="https://atinkerholic.wordpress.com/2019/02/01/hosting-a-django-2-0-project-on-heroku/">Hosting a Django 2.0 project on Heroku</a>
 </p>
-<p align="center">
+<p class="text-p" align="center">
 &#x2022;
-<a href="https://medium.com/@agusalexander8/transparent-video-alpha-channel-on-a-frame-and-ar-js-96a8705465ff">Transparent Video (Alpha Channel) on a-frame and ar.js</a>
+<a class="text-p" href="https://medium.com/@agusalexander8/transparent-video-alpha-channel-on-a-frame-and-ar-js-96a8705465ff">Transparent Video (Alpha Channel) on a-frame and ar.js</a>
 </p>
-<p align="center">
+<p class="text-p" align="center">
 &#x2022;
 <a href="https://atinkerholic.wordpress.com/2019/02/01/setup-django-with-venv/">Setup Django with Venv</a>
 </p>
-<p align="center">
+<p class="text-p" align="center">
 &#x2022;
 <a href="https://atinkerholic.wordpress.com/2018/10/12/how-to-use-multi-markers-on-ar-js-with-a-frame/">How to use multi-markers on AR.js with A-Frame</a>
 </p>
