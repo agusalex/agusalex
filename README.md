@@ -17,14 +17,14 @@ I am a Full Stack Software Engineer from Argentina.
 </div>
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="315" src="https://agusalex-stats.vercel.app/api/top-langs/?username=agusalex&&include_all_commits=true&count_private=true&layout=compact&theme=vision-friendly-light&count_private=true&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
+  <img class="tile" align="center" width="315" src="https://agusalex-stats.vercel.app/api/top-langs/?username=agusalex&&include_all_commits=true&count_private=true&layout=compact&theme=vision-friendly-light&count_private=true&exclude_repo=inmobi,notarius,2048&hide=html,css,scss" />
 </a>
 <a align="center" href="https://git.io/streak-stats">
-  <img align="center" width="400" src="https://agusalex-stats.vercel.app/api?username=agusalex&theme=vision-friendly-light&hide_border=false&include_all_commits=true&count_private=true"  />
+  <img class="tile" align="center" width="400" src="https://agusalex-stats.vercel.app/api?username=agusalex&theme=vision-friendly-light&hide_border=false&include_all_commits=true&count_private=true"  />
 </a>
 
 <a align="center" href="https://git.io/streak-stats">
-  <img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=agusalex&count_private=true&theme=vision-friendly-light" width="415"/>
+  <img class="tile" align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=agusalex&count_private=true&theme=vision-friendly-light" width="415"/>
 </a>
 </p>
 
