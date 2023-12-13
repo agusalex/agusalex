@@ -6,7 +6,7 @@
 I am a Full Stack Software Engineer from Argentina.
 </p>
 <p class="text-p" align="center">
-🔭 I worked at Mulesoft doing backend and frontend. And now at Compass, focusing on a Golang, cross-team, and cross-product initiative.
+🔭 I worked at Mulesoft doing backend and frontend. And now at Powerflex, focusing on a Python and Typescript, cross-team initiative.
 </p>
 <p class="text-p" align="center">
 ⚡ In my free time I create and contribute to cool open source projects.
