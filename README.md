@@ -3,7 +3,7 @@
 <p class="text-p" align="center">
 <img align="center" src="https://visitcount.itsvg.in/api?id=agusalex&icon=0&color=0"/> </p>
 <p class="text-p" align="center">
-I am a Full Stack Software Engineer from Argentina.
+I am a Full Stack Senior Software Engineer from Argentina.
 </p>
 <p class="text-p" align="center">
 🔭 I worked at Mulesoft doing backend and frontend. And now at Powerflex, focusing on a Python and Typescript, cross-team initiative.
