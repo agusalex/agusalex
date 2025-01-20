@@ -24,7 +24,7 @@ I am a Full Stack Senior Software Engineer from Argentina.
 </a>
 
 <a align="center" href="https://git.io/streak-stats">
-  <img class="tile" align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=agusalex&count_private=true&theme=vision-friendly-light" width="415"/>
+  <img class="tile" align="center" width="440" src="https://streak-stats.demolab.com/?user=agusalex&count_private=true&theme=vision-friendly-light" width="415"/>
 </a>
 </p>
 
