@@ -1,8 +1,6 @@
 <h1 align="center">Agustin Alexander</h1>
 <div class="card" >  
 <p class="text-p" align="center">
-<img align="center" src="https://visitcount.itsvg.in/api?id=agusalex&icon=0&color=0"/> </p>
-<p class="text-p" align="center">
 I am a Full Stack Senior Software Engineer from Argentina.
 </p>
 <p class="text-p" align="center">
