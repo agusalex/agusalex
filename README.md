@@ -46,11 +46,11 @@ I am a Full Stack Senior Software Engineer from Argentina.
 ---
 <h3 align="center">🔥 &nbsp; Some Projects that I built:</h3>
 <div class="projects" style="display: flex; justify-content: center; align-items: center; text-align: center; min-height: 100vh;" align="center">
+   <a href="https://github.com/agusalex/ghostfolio-sync">
+    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync" />
+  </a>
   <a href="https://github.com/agusalex/firebase-ecommerce">
     <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=firebase-ecommerce" />
-  </a>
-  <a href="https://github.com/agusalex/ghostfolio-sync">
-    <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=ghostfolio-sync" />
   </a>
   <a href="https://github.com/agusalex/notarius">
     <img align="center" src="https://agusalex-stats.vercel.app/api/pin/?username=agusalex&repo=notarius" />
